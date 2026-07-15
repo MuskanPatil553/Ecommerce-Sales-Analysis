@@ -106,10 +106,7 @@ The dashboard includes:
 
 # 📷 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
-"C:\Users\muska\OneDrive\Documents\Data-Analyst-Portfolio\Ecommerce-Sales-Analysis\dashboard\Dashboard.png"
-
+![dashboard](Dashboard.png)
 
 ---
 
